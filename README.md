@@ -19,3 +19,7 @@ Mettete il vostro nome sui task che volete fare o che state facendo o che avete 
 - Task #7 : Role of political preferences (+)
 
 Final note: ricordiamoci che alla fine dobbiamo anche fare un deck di 4 slides.
+
+
+
+
