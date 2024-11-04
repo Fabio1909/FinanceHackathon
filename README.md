@@ -20,6 +20,8 @@ Mettete il vostro nome sui task che volete fare o che state facendo o che avete 
 
 Final note: ricordiamoci che alla fine dobbiamo anche fare un deck di 4 slides.
 
+Ciao emanuele
+
 
 
 
