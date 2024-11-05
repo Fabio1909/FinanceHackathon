@@ -8,10 +8,12 @@ Per quanto riguarda i task io ed il fantastico LitoRoom, in classe avevamo paral
 
 Mettete il vostro nome sui task che volete fare o che state facendo o che avete fatto cosi tutti abbiamo un'idea di cosa sta succedendo. 
 
+- Day1: Preliminary data analysis --> FABIO
 - Task #1 : Media coverage of press campaigns (++) --> EMANUELE
 - Task #2 : Social media coverage of press campaigns (++)
 - Task #3 : Sentiment analysis of press campaigns (++)
 
+- Day2: Bank data wrangle --> FABIO
 - Task #4 : estimate parameters of the CAPM (+) --> FABIO
 - Task #5 : compute CARs and merge Sigwatch + Datastream data (++)
 - Task #6 : Do NGOs campaigns matter ? (+++)
@@ -20,7 +22,6 @@ Mettete il vostro nome sui task che volete fare o che state facendo o che avete 
 
 Final note: ricordiamoci che alla fine dobbiamo anche fare un deck di 4 slides.
 
-Ciao emanuele
 
 
 
